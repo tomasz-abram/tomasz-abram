@@ -2,7 +2,7 @@
 
 
 <h2>About Me</h2> 
-<p class="text-justify">I am an architect and self-taught novice programmer. Since the beginning of this year I have been intensively learning java programming and technologies related to this environment. Due to my interests and my education I strive to gain knowledge in the field of backend and frontend. </p>
+<p class="text-justify">I am an architect and a novice programmer learning under the guidance of a mentor. My passion for creating new and modern things is in my genes. I have been programming in Java for about a year. I feel best in creating web applications with Spring. Due to my interests and my education, I strive to gain knowledge in the field of backend and frontend programming. </p>
 
 <h2>Tech Skills</h2>
 
